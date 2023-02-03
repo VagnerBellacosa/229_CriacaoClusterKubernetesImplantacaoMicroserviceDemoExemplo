@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criação do Cluster Kubernetes e Implantação do Microservice-demo de Exemplo](https://web.dio.me/lab/criacao-do-cluster-kubernetes-e-implantacao-do-microservice-demo-de-exemplo/learning/c6ea26b6-693d-4967-adf1-16472610ab32)[Entendendo o Desafio](https://web.dio.me/lab/criacao-do-cluster-kubernetes-e-implantacao-do-microservice-demo-de-exemplo/learning/e8488927-ad63-407e-b3cd-49754b640807)
+- [Criação do Cluster Kubernetes e Implantação do Microservice-demo de Exemplo](https://web.dio.me/lab/criacao-do-cluster-kubernetes-e-implantacao-do-microservice-demo-de-exemplo/learning/c6ea26b6-693d-4967-adf1-16472610ab32)
+- [Entendendo o Desafio](https://web.dio.me/lab/criacao-do-cluster-kubernetes-e-implantacao-do-microservice-demo-de-exemplo/learning/e8488927-ad63-407e-b3cd-49754b640807)
 
 
 
